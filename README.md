@@ -1,11 +1,11 @@
 # E-wallet-Application
 Full Stack application using-
 
-•	STS (Spring Tool Suite)
+-	STS (Spring Tool Suite)
 
-•	Angular9
+-	Angular9
 
-•	Backend Database(H2)
+-	Backend Database(H2)
 
 (Project will be shifted from H2 database to Oracle11g)
 
