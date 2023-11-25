@@ -1,4 +1,4 @@
-# E-Wallet Application 🌐💰
+# Digital Wallet Hub 🌐💰
 
 Welcome to the E-Wallet Application repository! This full-stack application seamlessly combines the power of Spring Tool Suite (STS), Angular 9, and a backend database (H2) to provide a robust and user-friendly digital wallet experience.
 
