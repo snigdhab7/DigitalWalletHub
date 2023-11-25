@@ -17,7 +17,7 @@ The project structure is organized for clarity and ease of navigation. Explore t
 ## Screenshots 📸
 
 Check out the screenshots of the frontend to get a glimpse of the intuitive and visually appealing user interface. Navigate to the `src/main/resources/static/wallet` directory to explore the Angular files and visualize the frontend components. This is the Login Page:
-<br/>
+<br/><br/>
 ![image](https://github.com/snigdhab7/E-WalletApp_FullStack_cg/assets/62890614/8b5f4f35-a82e-4080-99ba-ab7ef400d806)
 
 
